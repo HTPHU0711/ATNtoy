@@ -54,8 +54,8 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/acee.jpg">
-                            <h5><a href="#">Portgas.D. Ace</a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/61yJfjtiPoL._AC_SY355_.jpg">
+                            <h5><a href="#">Electric Splatter Ball Blaster</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
