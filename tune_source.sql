@@ -71,9 +71,9 @@ CREATE TABLE `customer` (
 INSERT INTO `customer` (`Username`, `Password`, `CustName`, `gender`, `Address`, `telephone`, `email`, `CusDate`, `CusMonth`, `CusYear`, `SSN`, `ActiveCode`, `state`) VALUES
 ('abc', 'e10adc3949ba59abbe56e057f20f883e', 'NguyenBaLoc', 0, '160/4 30/4', '0123456789', '456@gmail.com', 1, 2, 1970, '', '', 0),
 ('admin', 'e10adc3949ba59abbe56e057f20f883e', 'admin', 0, 'admin', '1234567890', 'admin@gmail.com', 3, 3, 2000, '', '', 1),
-('sieu123', 'e10adc3949ba59abbe56e057f20f883e', 'NguyenSieu', 0, '160/4 30/4', '1234567890', '123@gmail.com', 1, 3, 1970, '', '', 0),
-('sieu2001', '25f9e794323b453885f5181f1b624d0b', 'NguyenSieu', 0, '160/4 30/4', '0123456789', 'locnbgcc18053@fpt.edu.vn', 30, 3, 2000, '', '', 0),
-('sieu2001ct', 'e10adc3949ba59abbe56e057f20f883e', 'NguyenSieu', 0, '160/4 30/4 12311231', '0123456789', '123@gmail.commmm', 3, 4, 1971, '', '', 0);
+('phudeptrai', 'e10adc3949ba59abbe56e057f20f883e', 'HATYPHU', 0, '160/4 30/4', '1234567890', '123@gmail.com', 1, 3, 1970, '', '', 0),
+('Pphu2001', '25f9e794323b453885f5181f1b624d0b', 'HATYPHU', 0, '160/4 30/4', '0123456789', 'locnbgcc18053@fpt.edu.vn', 30, 3, 2000, '', '', 0),
+('phu2001ct', 'e10adc3949ba59abbe56e057f20f883e', 'HATYPHU', 0, '160/4 30/4 12311231', '0123456789', '123@gmail.commmm', 3, 4, 1971, '', '', 0);
 
 -- --------------------------------------------------------
 
