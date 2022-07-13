@@ -58,7 +58,7 @@
                             <h5><a href="#">Electric Splatter Ball Blaster</a></h5>
                         </div>
                         <div class="categories__item set-bg" data-setbg="ATNtoy/luffy.jpg">
-                            <h5><a href="#">Mokey. D. Luffy</a></h5>
+                            <h5><a href="#">PISTOL CROSSBOW</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
