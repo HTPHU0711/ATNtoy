@@ -35,7 +35,7 @@
                             </div>
                             <div class="hero__search__phone__text">
                                 <h5> 0948 459 460</h5>
-                                <span>support 24/7 time</span>
+                                <span>Support 24/7 time</span>
                             </div>
                         </div>
                     </div>
