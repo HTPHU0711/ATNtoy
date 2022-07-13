@@ -114,7 +114,7 @@ include_once("connection.php");
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> sieungccgcc19186@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i> Phuhtgcc19055@fpt.edu.vn</li>
                 <li>A shopping website for toy</li>
             </ul>
         </div>
