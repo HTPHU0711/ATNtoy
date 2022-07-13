@@ -63,11 +63,11 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/Levi.jpg">
-                            <h5><a href="#">Levi Akerman</a></h5>
+                            <h5><a href="#">Barrett 50 Cal</a></h5>
                         </div>
                     </div>
                     <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
-                            <h5><a href="#">Mikey Sanjiro</a></h5>
+                            <h5><a href="#">Toy AK-47</a></h5>
                         </div>
                     </div>
                 </div>
